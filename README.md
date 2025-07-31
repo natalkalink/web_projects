@@ -2,7 +2,7 @@
 
 ### Here you will find my web development projects  
 
-- ### <a href="https://natalkalink.github.io/web_projects/Cootels/" target="_blank">Cootels</a>
+- ### [Cootels](https://natalkalink.github.io/web_projects/Cootels/)
 
   *Cozy place to relax and reconnect with nature*
   
@@ -12,8 +12,6 @@
   
   Responsive design with smooth animations and an overall user-friendly experience, including a burger menu
   
-
-- ### <a href="https://natalkalink.github.io/web_projects/Holiday-resort/" target="_blank">Holiday-resort</a>
 
 - ### [Holiday-resort](https://natalkalink.github.io/web_projects/Holiday-resort/)
 
