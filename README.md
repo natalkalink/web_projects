@@ -13,7 +13,7 @@
   Responsive design with smooth animations and an overall user-friendly experience, including a burger menu
   
 
-- ### [Holiday-resort] (https://natalkalink.github.io/web_projects/Holiday-resort/)
+- ### [Holiday-resort](https://natalkalink.github.io/web_projects/Holiday-resort/)
 
   *Perfect spot for a weekend rest in nature*
   
