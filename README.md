@@ -4,13 +4,13 @@
 
 - ### [Finsweet](https://natalkalink.github.io/web_projects/Finsweet/)
 	
-*Smart design solutions for ambitious startups*
+  *Smart design solutions for ambitious startups*
 
- Multi-page website  
+  Multi-page website  
  
- Figma, HTML, SCSS, JS  
+  Figma, HTML, SCSS, JS  
  
- Built with SCSS and smooth animations, featuring a responsive layout, clear navigation, and a burger menu for mobile devices 
+  Built with SCSS and smooth animations, featuring a responsive layout, clear navigation, and a burger menu for mobile devices 
 
 
 - ### [Cootels](https://natalkalink.github.io/web_projects/Cootels/)
