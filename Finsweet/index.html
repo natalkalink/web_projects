@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Finsweet</title>
+</head>
+
+<body>
+	<div class="wrapper">
+		<div class="logo">
+			<img src="img/icon/Logo_NatalkaLink.png" alt="logo">
+		</div>
+		<div class="count_pages">
+			<ul>
+				<li><a href="home.html" target="_blanck">home</a></li>
+				<li><a href="about-us.html" target="_blanck">about-us</a></li>
+				<li><a href="pricing.html" target="_blanck">pricing</a></li>
+				<li><a href="features.html" target="_blanck">features</a></li>
+				<li><a href="portfolio.html" target="_blanck">portfolio</a></li>
+				<li><a href="read-case-studies.html" target="_blanck">read-case-studies</a></li>
+				<li><a href="contact-us.html" target="_blanck">contact-us</a></li>
+				<li><a href="blog.html" target="_blanck">blog</a></li>
+				<li><a href="read-blog.html" target="_blanck">read-blog</a></li>
+				<li><a href="privasy-polisy.html" target="_blanck">privasy-polisy</a></li>
+			</ul>
+		</div>
+	</div>
+	<style>
+		.wrapper {
+			padding-top: 50px;
+			padding-bottom: 50px;
+			max-width: 600px;
+			margin: 0 auto;
+		}
+
+		.logo img {
+			max-width: 100%;
+		}
+
+		.count_pages {
+			margin: 0;
+			width: 400px;
+			margin: auto;
+			font-family: sans-serif;
+			max-width: 100%;
+			counter-reset: list1;
+			margin-bottom: 40px;
+			margin-top: 40px;
+		}
+
+		.count_pages ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+		}
+
+		.count_pages li {
+			list-style: none;
+			margin-bottom: 10px;
+			border: 1px solid #535460;
+			border-radius: 25px;
+			width: 100%;
+			background-color: #f9f9f9;
+		}
+
+		.count_pages a {
+			font-size: 18px;
+			text-align: center;
+			color: #535460;
+			text-decoration: none;
+			display: block;
+			padding: 10px 20px;
+			background-color: white;
+			border-radius: 25px;
+			transition: background-color 0.3s ease;
+		}
+
+		.count_pages a:hover {
+			background-color: #535460;
+			color: white;
+		}
+
+		.count_pages a:before {
+			counter-increment: list1;
+			content: counter(list1) ". ";
+		}
+
+		@media (max-width: 767.98px) {
+			.wrapper {
+				padding-top: 20px;
+				padding-bottom: 20px;
+			}
+
+			.count_pages {
+				margin-bottom: 20px;
+				margin-top: 20px;
+			}
+		}
+	</style>
+</body>
+
+</html>
