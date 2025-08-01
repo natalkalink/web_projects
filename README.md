@@ -2,6 +2,17 @@
 
 ### Here you will find my web development projects  
 
+- ### [Finsweet](https://natalkalink.github.io/web_projects/Finsweet/)
+	
+*Smart design solutions for ambitious startups*
+
+ Multi-page website  
+ 
+ Figma, HTML, SCSS, JS  
+ 
+ Built with SCSS and smooth animations, featuring a responsive layout, clear navigation, and a burger menu for mobile devices 
+
+
 - ### [Cootels](https://natalkalink.github.io/web_projects/Cootels/)
 
   *Cozy place to relax and reconnect with nature*
