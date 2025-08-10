@@ -33,3 +33,4 @@
   Figma, HTML, CSS, JS
   
   Responsive design featuring smooth animations and an intuitive, user-friendly interface
+  
