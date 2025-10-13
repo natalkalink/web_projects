@@ -4,7 +4,7 @@
 
 - ### [detrainer](https://detrainer.net/)
 
-  *Website for learning German verbs through interactive cards and exercises.
+  *Website for learning German verbs through interactive cards and exercises.*
 
   Multi-page web app
 
