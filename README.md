@@ -2,6 +2,16 @@
 
 ### Here you will find my web development projects  
 
+- ### [ClayKingdom](https://natalkalink.github.io/web_projects/ClayKingdom/)
+
+  *A captivating landing page with immersive visual effects*
+
+  Landing page
+  
+  Figma, HTML, CSS, JS
+
+  Responsive design featuring smooth parallax effects on decorative elements, providing a dynamic and engaging user experience across all devices.
+
 
 - ### [Finsweet](https://natalkalink.github.io/web_projects/Finsweet/)
 	
