@@ -8,7 +8,7 @@
 
   Landing page
   
-  Figma, HTML, CSS, JS
+  Figma, HTML, CSS: SCSS + BEM, JS
 
   Responsive design featuring smooth parallax effects on decorative elements, providing a dynamic and engaging user experience across all devices.
 
