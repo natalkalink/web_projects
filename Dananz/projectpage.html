@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Dananz - Project Pages</title>
+	<style>
+		*,
+		*::before,
+		*::after {
+			box-sizing: border-box;
+			margin: 0;
+			padding: 0;
+		}
+
+		body {
+			font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+			background-color: #f4f4f7;
+			color: #333;
+		}
+
+		.wrapper {
+			padding: 50px 20px;
+			max-width: 400px;
+			margin: 0 auto;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+
+		.logo {
+			margin-bottom: 40px;
+		}
+
+		.logo img {
+			max-width: 200px;
+			height: auto;
+		}
+
+		.count_pages {
+			width: 100%;
+			text-align: center;
+			counter-reset: list1;
+		}
+
+		.count_pages ul {
+			list-style: none;
+		}
+
+		.count_pages li {
+			margin-bottom: 20px;
+			transition: transform 0.2s ease;
+		}
+
+		.count_pages li:hover {
+			transform: translateX(5px);
+		}
+
+		.count_pages a {
+			font-size: 18px;
+			color: #535460;
+			text-decoration: none;
+			display: block;
+			padding: 15px 25px;
+			background-color: white;
+			border: 1px solid #e1e1e8;
+			border-radius: 30px;
+			box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+			transition: all 0.3s ease;
+		}
+
+		.count_pages a:hover {
+			background-color: #535460;
+			color: white;
+			border-color: #535460;
+		}
+
+		.count_pages a:before {
+			counter-increment: list1;
+			content: counter(list1) ". ";
+			font-weight: bold;
+			margin-right: 5px;
+			opacity: 0.6;
+		}
+
+		@media (max-width: 480px) {
+			.wrapper {
+				padding-top: 30px;
+			}
+
+			.count_pages a {
+				font-size: 16px;
+				padding: 12px 20px;
+			}
+		}
+	</style>
+</head>
+
+<body>
+	<div class="wrapper">
+		<nav class="count_pages">
+			<ul>
+				<li>
+					<a target="_blank" href="team.html">team</a>
+				</li>
+				<li>
+					<a target="_blank" href="services.html">services</a>
+				</li>
+				<li>
+					<a target="_blank" href="portfolio.html">portfolio</a>
+				</li>
+				<li>
+					<a target="_blank" href="index.html">index</a>
+				</li>
+				<li>
+					<a target="_blank" href="details.html">details</a>
+				</li>
+				<li>
+					<a target="_blank" href="contacts.html">contacts</a>
+				</li>
+				<li>
+					<a target="_blank" href="about.html">about</a>
+				</li>
+			</ul>
+		</nav>
+	</div>
+</body>
+
+</html>
