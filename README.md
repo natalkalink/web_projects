@@ -4,7 +4,7 @@
 
 - ### [Dananz](https://natalkalink.github.io/web_projects/Dananz/projectpage.html)
 
-  *Dananz — Interior Design Studio Website*
+  *Dananz — Interior Design Studio Website.*
   *A stylish multi-page website for a premium interior design studio. This project focuses on modern grid layouts, clean aesthetics, and seamless navigation.*
 
   Key Features:
