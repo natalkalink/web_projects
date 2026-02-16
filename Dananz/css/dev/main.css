@@ -1216,10 +1216,7 @@ body {
     column-gap: 1.875rem;
   }
   .statistics-card {
-    gap: 0.625rem;
-  }
-  .statistics-card {
-    min-height: 15.625rem;
+    gap: 1.25rem;
   }
   .statistics-card {
     padding-top: 0.625rem;
@@ -1580,10 +1577,7 @@ body {
     column-gap: clamp( 1.875rem , 0.17045454545625rem  +  8.5227272727vw , 6.5625rem );
   }
   .statistics-card {
-    gap: clamp( 0.625rem , -0.44318181818125rem  +  5.3409090909vw , 3.5625rem );
-  }
-  .statistics-card {
-    min-height: clamp( 15.625rem , 9.375rem  +  31.25vw , 32.8125rem );
+    gap: clamp( 1.25rem , 0.40909090909375rem  +  4.2045454545vw , 3.5625rem );
   }
   .statistics-card {
     padding-top: clamp( 0.625rem , -0.05681818181875rem  +  3.4090909091vw , 2.5rem );
@@ -1938,9 +1932,6 @@ body {
   }
   .statistics-card {
     gap: 3.5625rem;
-  }
-  .statistics-card {
-    min-height: 32.8125rem;
   }
   .statistics-card {
     padding-top: 2.5rem;
