@@ -2,6 +2,27 @@
 
 ### Here you will find my web development projects  
 
+- ### [Dananz](https://natalkalink.github.io/web_projects/Dananz/projectpage.html)
+
+  *Dananz — Interior Design Studio Website.*
+  *A stylish multi-page website for a premium interior design studio. This project focuses on modern grid layouts, clean aesthetics, and seamless navigation.*
+
+  Key Features:
+ 
+  Advanced Layouts: Implemented complex asymmetrical and "checkerboard" sections using CSS Grid and Flexbox.
+
+  Automated Index: Created a dynamic project dashboard that automatically lists and numbers all pages using a template engine.
+
+  Smart Navigation: Features an active-state menu that highlights the current page using local template variables.
+ 
+  Fully Responsive: Fine-tuned for a flawless experience across all devices, from mobile to desktop.
+
+  Professional Workflow: Built with SCSS (BEM methodology) and Vite for clean, maintainable, and high-performance code.
+
+  Tech Stack: HTML, SCSS (BEM), Vite, JavaScript.
+
+  Project Goal: To translate a minimalist architectural aesthetic into a functional digital space, focusing on whitespace and user-friendly navigation.
+
 - ### [InfoBao](https://natalkalink.github.io/web_projects/InfoBao/)
 
   *Info Bao — Premium Cosmetics Landing Page*
